@@ -36,6 +36,7 @@ Backend (JavaScript/TypeScript)
 The is a fully functional set of [GitHub Actions](https://github.com/bcgov/quickstart-openshift/actions) workflows and a starter application stack intended to help Agile teams hit the ground running.
 
 Features:
+
 * Pull Request-based pipeline
 * Sandboxed development environments
 * Gateable production deployments

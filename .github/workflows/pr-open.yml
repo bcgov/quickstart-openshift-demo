@@ -13,6 +13,7 @@ jobs:
   builds:
     name: Builds
     runs-on: ubuntu-24.04
+    permissions: write-all
     strategy:
       matrix:
         package: [backend, frontend, migrations]
